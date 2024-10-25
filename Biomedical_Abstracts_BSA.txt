@@ -1,0 +1,217 @@
+Drug–drug–gene interactions and adverse drug reactions
+Mustafa Adnan Malki & Ewan Robert Pearson 
+The Pharmacogenomics Journal volume 20, pages355–366 (2020)Cite this article
+
+21k Accesses
+
+88 Citations
+
+19 Altmetric
+
+Metricsdetails
+
+Abstract
+The economic and health burden caused by adverse drug reactions has increased dramatically in the last few years. This is likely to be mediated by increasing polypharmacy, which increases the likelihood for drug–drug interactions. Tools utilized by healthcare practitioners to flag potential adverse drug reactions secondary to drug–drug interactions ignore individual genetic variation, which has the potential to markedly alter the severity of these interactions. To date there have been limited published studies on impact of genetic variation on drug–drug interactions. In this review, we establish a detailed classification for pharmacokinetic drug–drug–gene interactions, and give examples from the literature that support this approach. The increasing availability of real-world drug outcome data linked to genetic bioresources is likely to enable the discovery of previously unrecognized, clinically important drug–drug–gene interactions.
+Mirtazapine loaded polymeric micelles for rapid release tablet: A novel formulation—In vitro and in vivo studies
+Original Article
+Open access
+Published: 14 February 2024
+Volume 14, pages 2488–2498, (2024)
+Cite this article
+Download PDF
+You have full access to this
+open access
+article
+
+Abstract
+Major depression is a prevalent disorder characterized by sadness, lack of interest or pleasure, interrupted sleep or food, and impaired concentration. Mirtazapine (MTZ), a tetracyclic antidepressant drug, is commonly used to treat moderate to severe depression. MTZ is classified as a BCS class II drug that has shown bioavailability of 50% due to extensive first-pass metabolism. The aim of this research is to develop a delivery platform with enhanced solubility and oral bioavailability of MTZ through formulating polymeric micelles modeled in a rapid release tablet. Mirtazapine loaded polymeric micelles (MTZ-PMs) were formulated to enhance the solubility. Solutol® HS 15 and Brij 58 were used as combined surfactants in a ratio of (20:1) to MTZ in addition to Transcutol® P as a penetration enhancer. The following in vitro tests were performed: particle size, PDI, zeta potential, solubility factor, stability index, and transmission electron microscopes. Afterward, MTZ-PMs were converted to dry free flowable powder through loading on the adsorptive surface of Aerosil 200; then, the powder mixture was directly compressed (MTZ-PMs-RRT) into 13 mm tablets. MTZ-PMs-RRT was further investigated using in vitro evaluation tests of the tablets, namely, weight variation, thickness, diameter, hardness, friability, disintegration time, drug content, and in vitro dissolution test, which complied with the pharmacopeial limits. The pharmacokinetic parameters of MTZ-PMs-RRT compared to Remeron® tablet were further investigated in rabbits. The results showed enhanced solubility of MTZ with improved percentage relative bioavailability to 153%. The formulation of MTZ in the form of MTZ-PMs-RRT successfully improved the solubility, stability, and bioavailability of MTZ using a simple and scalable manufacturing process.
+
+
+
+Pharmacogenomics: The Right Drug to the Right Person
+Aneesh T P,a,b Sonal Sekhar M,a Asha Jose,a Lekshmi Chandran,a and Subin Mary Zachariaha
+Author information Article notes Copyright and License information PMC Disclaimer
+Go to:
+Abstract
+Pharmacogenomics is the branch of pharmacology which deals with the influence of genetic variation on drug response in patients by correlating gene expression or single-nucleotide polymorphisms with a drug's efficacy or toxicity. It aims to develop rational means to optimize drug therapy, with respect to the patients genotype, to ensure maximum efficacy with minimal adverse effects. Such approaches promise the advent of personalized medicine, in which drugs and drug combinations are optimized for each individual's unique genetic makeup. Pharmacogenomics is the whole genome application of pharmacogenetics, which examines the single gene interactions with drugs.
+
+
+
+Mirtazapine loaded polymeric micelles for rapid release tablet: A novel formulation—In vitro and in vivo studies
+Sara Nageeb El-Helaly 1, Amira A Rashad 2
+Author information
+Article notes
+Copyright and License information
+PMCID: PMC11291528  PMID: 38353837
+Abstract
+Major depression is a prevalent disorder characterized by sadness, lack of interest or pleasure, interrupted sleep or food, and impaired concentration. Mirtazapine (MTZ), a tetracyclic antidepressant drug, is commonly used to treat moderate to severe depression. MTZ is classified as a BCS class II drug that has shown bioavailability of 50% due to extensive first-pass metabolism. The aim of this research is to develop a delivery platform with enhanced solubility and oral bioavailability of MTZ through formulating polymeric micelles modeled in a rapid release tablet. Mirtazapine loaded polymeric micelles (MTZ-PMs) were formulated to enhance the solubility. Solutol® HS 15 and Brij 58 were used as combined surfactants in a ratio of (20:1) to MTZ in addition to Transcutol® P as a penetration enhancer. The following in vitro tests were performed: particle size, PDI, zeta potential, solubility factor, stability index, and transmission electron microscopes. Afterward, MTZ-PMs were converted to dry free flowable powder through loading on the adsorptive surface of Aerosil 200; then, the powder mixture was directly compressed (MTZ-PMs-RRT) into 13 mm tablets. MTZ-PMs-RRT was further investigated using in vitro evaluation tests of the tablets, namely, weight variation, thickness, diameter, hardness, friability, disintegration time, drug content, and in vitro dissolution test, which complied with the pharmacopeial limits. The pharmacokinetic parameters of MTZ-PMs-RRT compared to Remeron® tablet were further investigated in rabbits. The results showed enhanced solubility of MTZ with improved percentage relative bioavailability to 153%. The formulation of MTZ in the form of MTZ-PMs-RRT successfully improved the solubility, stability, and bioavailability of MTZ using a simple and scalable manufacturing process.
+
+
+Drug–Gene Interactions: Inherent Variability In Drug Maintenance Dose Requirements
+Paul Westervelt, Kihoon Cho, David R. Bright, PharmD, and David F. Kisor, PharmD
+Author information Copyright and License information PMC Disclaimer
+Go to:
+Abstract
+The influence of genetics on pharmacokinetics can introduce variability among individual patients that may cause treatment failure, toxicity, or both. Such variability, specifically in clearance rates, can influence drug maintenance dosing regimens.
+
+Integrating gene expression and clinical data to identify drug repurposing candidates for hyperlipidemia and hypertension
+Patrick Wu, QiPing Feng, Vern Eric Kerchberger, Scott D. Nelson, Qingxia Chen, Bingshan Li, Todd L. Edwards, Nancy J. Cox, Elizabeth J. Phillips, C. Michael Stein, Dan M. Roden, Joshua C. Denny & Wei-Qi Wei 
+Nature Communications volume 13, Article number: 46 (2022) Cite this article
+
+12k Accesses
+
+20 Citations
+
+22 Altmetric
+
+Metricsdetails
+
+Abstract
+Discovering novel uses for existing drugs, through drug repurposing, can reduce the time, costs, and risk of failure associated with new drug development. However, prioritizing drug repurposing candidates for downstream studies remains challenging. Here, we present a high-throughput approach to identify and validate drug repurposing candidates. This approach integrates human gene expression, drug perturbation, and clinical data from publicly available resources. We apply this approach to find drug repurposing candidates for two diseases, hyperlipidemia and hypertension. We screen >21,000 compounds and replicate ten approved drugs. We also identify 25 (seven for hyperlipidemia, eighteen for hypertension) drugs approved for other indications with therapeutic effects on clinically relevant biomarkers. For five of these drugs, the therapeutic effects are replicated in the All of Us Research Program database. We anticipate our approach will enable researchers to integrate multiple publicly available datasets to identify high priority drug repurposing opportunities for human diseases.
+
+
+Drug-drug-gene interactions and adverse drug reactions
+Mustafa Adnan Malki, Ewan Robert Pearson (Lead / Corresponding author)
+
+Population Health and Genomics
+Research output: Contribution to journal › Review article › peer-review
+
+96
+Citations
+(Scopus)
+83
+Downloads
+(Pure)
+Article has an altmetric score of 19
+  
+Abstract
+The economic and health burden caused by adverse drug reactions has increased dramatically in the last few years. This is likely to be mediated by increasing polypharmacy, which increases the likelihood for drug-drug interactions. Tools utilized by healthcare practitioners to flag potential adverse drug reactions secondary to drug-drug interactions ignore individual genetic variation, which has the potential to markedly alter the severity of these interactions. To date there have been limited published studies on impact of genetic variation on drug-drug interactions. In this review, we establish a detailed classification for pharmacokinetic drug-drug-gene interactions, and give examples from the literature that support this approach. The increasing availability of real-world drug outcome data linked to genetic bioresources is likely to enable the discovery of previously unrecognized, clinically important drug-drug-gene interactions.
+
+Pharmacogenomic Biomarkers for Improved Drug Therapy—Recent Progress and Future Developments
+Review Article
+Theme: Precision Medicine: Implications for the Pharmaceutical Sciences
+Open access
+Published: 27 November 2017
+Volume 20, article number 4, (2018)
+Cite this article
+
+
+The AAPS Journal
+Aims and scope
+Submit manuscript
+Volker M. Lauschke, Lili Milani & Magnus Ingelman-Sundberg 
+17k Accesses
+
+100 Citations
+
+5 Altmetric
+
+Explore all metrics 
+
+Abstract
+Much of the inter-individual variability in drug efficacy and risk of adverse reactions is due to polymorphisms in genes encoding proteins involved in drug pharmacokinetics and pharmacodynamics or immunological responses. Pharmacogenetic research has identified a multitude of gene-drug response associations, which have resulted in genetically guided treatment and dosing decisions to yield a higher success rate of pharmacological treatment. The rapid technological developments for genetic analyses reveal that the number of genetic variants with importance for drug action is much higher than previously thought and that a true personalized prediction of drug response requires attention to millions of rare mutations. Here, we review the evolutionary background of genetic polymorphisms in drug-metabolizing enzymes, provide some important examples of current use of pharmacogenomic biomarkers, and give an update of germline and somatic genome biomarkers that are in use in drug development and clinical practice. We also discuss the current technology development with emphasis on complex genetic loci, review current initiatives for validation of pharmacogenomic biomarkers, and present scenarios for the future taking rare genetic variants into account for a true personalized genetically guided drug prescription. We conclude that pharmacogenomic information for patient stratification is of value to tailor optimized treatment regimens particularly in oncology. However, the routine use of pharmacogenomic biomarkers in clinical practice in other therapeutic areas is currently sparse and the prospects of its future implementation are being scrutinized by different international consortia
+
+Tissue-specific genetic features inform prediction of drug side effects in clinical trials
+
+Abstract
+Adverse side effects often account for the failure of drug clinical trials. We evaluated whether a phenome-wide association study (PheWAS) of 1167 phenotypes in >360,000 U.K. Biobank individuals, in combination with gene expression and expression quantitative trait loci (eQTL) in 48 tissues, can inform prediction of drug side effects in clinical trials. We determined that drug target genes with five genetic features—tissue specificity of gene expression, Mendelian associations, phenotype- and tissue-level effects of genome-wide association (GWA) loci driven by eQTL, and genetic constraint—confer a 2.6-fold greater risk of side effects, compared to genes without such features. The presence of eQTL in multiple tissues resulted in more unique phenotypes driven by GWA loci, suggesting that drugs delivered to multiple tissues can induce several side effects. We demonstrate the utility of PheWAS and eQTL data from multiple tissues for informing drug side effect prediction and highlight the need for tissue-specific drug delivery.
+
+Evaluating drug targets through human loss-of-function genetic variation
+
+Abstract
+Naturally occurring human genetic variants that are predicted to inactivate protein-coding genes provide an in vivo model of human gene inactivation that complements knockout studies in cells and model organisms. Here we report three key findings regarding the assessment of candidate drug targets using human loss-of-function variants. First, even essential genes, in which loss-of-function variants are not tolerated, can be highly successful as targets of inhibitory drugs. Second, in most genes, loss-of-function variants are sufficiently rare that genotype-based ascertainment of homozygous or compound heterozygous ‘knockout’ humans will await sample sizes that are approximately 1,000 times those presently available, unless recruitment focuses on consanguineous individuals. Third, automated variant annotation and filtering are powerful, but manual curation remains crucial for removing artefacts, and is a prerequisite for recall-by-genotype efforts. Our results provide a roadmap for human knockout studies and should guide the interpretation of loss-of-function variants in drug development.
+
+DGIdb 3.0: a redesign and expansion of the drug–gene interaction database 
+   
+Abstract
+The drug–gene interaction database (DGIdb, www.dgidb.org) consolidates, organizes and presents drug–gene interactions and gene druggability information from papers, databases and web resources. DGIdb normalizes content from 30 disparate sources and allows for user-friendly advanced browsing, searching and filtering for ease of access through an intuitive web user interface, application programming interface (API) and public cloud-based server image. DGIdb v3.0 represents a major update of the database. Nine of the previously included 24 sources were updated. Six new resources were added, bringing the total number of sources to 30. These updates and additions of sources have cumulatively resulted in 56 309 interaction claims. This has also substantially expanded the comprehensive catalogue of druggable genes and anti-neoplastic drug–gene interactions included in the DGIdb. Along with these content updates, v3.0 has received a major overhaul of its codebase, including an updated user interface, preset interaction search filters, consolidation of interaction information into interaction groups, greatly improved search response times and upgrading the underlying web application framework. In addition, the expanded API features new endpoints which allow users to extract more detailed information about queried drugs, genes and drug–gene interactions, including listings of PubMed IDs, interaction type and other interaction metadata.
+
+
+DGIdb 3.0: a redesign and expansion of the drug–gene interaction database 
+
+Abstract
+The drug–gene interaction database (DGIdb, www.dgidb.org) consolidates, organizes and presents drug–gene interactions and gene druggability information from papers, databases and web resources. DGIdb normalizes content from 30 disparate sources and allows for user-friendly advanced browsing, searching and filtering for ease of access through an intuitive web user interface, application programming interface (API) and public cloud-based server image. DGIdb v3.0 represents a major update of the database. Nine of the previously included 24 sources were updated. Six new resources were added, bringing the total number of sources to 30. These updates and additions of sources have cumulatively resulted in 56 309 interaction claims. This has also substantially expanded the comprehensive catalogue of druggable genes and anti-neoplastic drug–gene interactions included in the DGIdb. Along with these content updates, v3.0 has received a major overhaul of its codebase, including an updated user interface, preset interaction search filters, consolidation of interaction information into interaction groups, greatly improved search response times and upgrading the underlying web application framework. In addition, the expanded API features new endpoints which allow users to extract more detailed information about queried drugs, genes and drug–gene interactions, including listings of PubMed IDs, interaction type and other interaction metadata.
+
+
+Pharmacogenomics: Prescribing based on genetic variation
+
+Abstract
+Clinical decision support systems relating to prescribing are available on general practice information technology systems, with warnings relating to drug–drug interactions and allergies. These tools can help us anticipate and avoid known side effects of drugs, but only after we have selected the drug. Combining these with renal function, liver function, other biophysical markers and pharmacogenomics information, can improve medicines optimisation and reduce adverse effects. Managing all these variables at the same time as conforming to disease guidelines is a challenge. The challenge is even greater when managing multi-morbidity and the associated polypharmacy.
+
+
+Abstract
+Lymphoblastoid cell lines (LCLs), originally collected as renewable sources of DNA, are now being used as a model system to study genotype–phenotype relationships in human cells, including searches for QTLs influencing levels of individual mRNAs and responses to drugs and radiation. In the course of attempting to map genes for drug response using 269 LCLs from the International HapMap Project, we evaluated the extent to which biological noise and non-genetic confounders contribute to trait variability in LCLs. While drug responses could be technically well measured on a given day, we observed significant day-to-day variability and substantial correlation to non-genetic confounders, such as baseline growth rates and metabolic state in culture. After correcting for these confounders, we were unable to detect any QTLs with genome-wide significance for drug response. A much higher proportion of variance in mRNA levels may be attributed to non-genetic factors (intra-individual variance—i.e., biological noise, levels of the EBV virus used to transform the cells, ATP levels) than to detectable eQTLs. Finally, in an attempt to improve power, we focused analysis on those genes that had both detectable eQTLs and correlation to drug response; we were unable to detect evidence that eQTL SNPs are convincingly associated with drug response in the model. While LCLs are a promising model for pharmacogenetic experiments, biological noise and in vitro artifacts may reduce power and have the potential to create spurious association due to confounding.
+
+
+Abstract
+This review will provide an overview of the principles of pharmacogenomics from basic discovery to implementation, encompassing application of tools of contemporary genome science to the field (including areas of apparent divergence from disease-based genomics), a summary of lessons learned from the extensively studied drugs clopidogrel and warfarin, the current status of implementing pharmacogenetic testing in practice, the role of genomics and related tools in the drug development process, and a summary of future opportunities and challenges
+
+
+Revisiting Antipsychotic Drug Actions Through Gene Networks Associated With Schizophrenia
+
+Abstract
+Objective:
+Antipsychotic drugs were incidentally discovered in the 1950s, but their mechanisms of action are still not understood. Better understanding of schizophrenia pathogenesis could shed light on actions of current drugs and reveal novel “druggable” pathways for unmet therapeutic needs. Recent genome-wide association studies offer unprecedented opportunities to characterize disease gene networks and uncover drug-disease relationships. Polygenic overlap between schizophrenia risk genes and antipsychotic drug targets has been demonstrated, but specific genes and pathways constituting this overlap are undetermined. Risk genes of polygenic disorders do not operate in isolation but in combination with other genes through protein-protein interactions among gene product.
+
+Method:
+The protein interactome was used to map antipsychotic drug targets (N=88) to networks of schizophrenia risk genes (N=328).
+
+Results:
+Schizophrenia risk genes were significantly localized in the interactome, forming a distinct disease module. Core genes of the module were enriched for genes involved in developmental biology and cognition, which may have a central role in schizophrenia etiology. Antipsychotic drug targets overlapped with the core disease module and comprised multiple pathways beyond dopamine. Some important risk genes like CHRN, PCDH, and HCN families were not connected to existing antipsychotics but may be suitable targets for novel drugs or drug repurposing opportunities to treat other aspects of schizophrenia, such as cognitive or negative symptoms.
+
+Conclusions:
+The network medicine approach provides a platform to collate information of disease genetics and drug-gene interactions to shift focus from development of antipsychotics to multitarget antischizophrenia drugs. This approach is transferable to other diseases.
+
+Antipsychotics were incidentally discovered more than 60 years ago, but their mechanisms of action have still not been fully revealed. Antipsychotics are the main medication available to patients with schizophrenia but have little effect on negative and cognitive symptoms of the disease. Current antipsychotics are also limited by serious side effects (1, 2) that reduce treatment compliance (3), and about one-third of patients with psychosis are classified as treatment resistant (4). Thus, there is great need for improved medications for these patients, but drug development has been hampered by poor knowledge of disease etiology and underlying genetics. There is a growing interest in harnessing knowledge of risk genes for developing better treatments for common diseases (5–7). For example, Nelson et al. (8) found that drugs with genetically supported mechanisms of action succeeded in moving from phase 1 trials to gaining approval twice as often as drugs without genetic support. Schizophrenia is highly heritable (9), and a well-powered genome-wide association study (GWAS) identified as many as 108 independent loci related to the disease, containing more than 300 genes (10). Improved knowledge of these risk genes may be used to inform drug development by revealing potential mechanisms of action of current drugs and by identifying new drug targets. Antipsychotics bind to numerous proteins (11), of which dopamine and serotonin receptors are the only ones with known biological links to schizophrenia. However, a recent study found genetic overlap between schizophrenia risk genes and antipsychotic target genes, which suggests the pharmacological mechanisms may be polygenic and may also involve pathways that are not yet identified (12).
+
+Most genotype-phenotype relationships arise from complexity of cellular interactions (13). Risk genes of polygenic disorders do not operate in isolation but in combination and interaction with other risk genes. The effect of a perturbation in one gene can propagate to affect other nearby proteins in the protein-protein interaction network, referred to here as the interactome. Therefore, protein products of genes that are associated with a particular disease tend to interact with one another and converge on related biological and functional networks (the so-called disease module) rather than being randomly spread throughout the interactome (14, 15). Thus, network biology (16) or network medicine (15) provides an important framework where knowledge of protein-protein interactions can be used to gain more comprehensive insight into the molecular mechanisms of complex diseases (14, 17).
+
+The network approach also provides a unique opportunity to study drug effects by integrating the human interactome with knowledge of drug targets (18). The Drug-Gene Interaction Database (DGIdb) (11, 19) contains information on genes whose products are known to interact with drugs in humans (drug target genes), as well as genes that belong to the “druggable” genome (11, 20). Okada et al. (21) examined how targets of rheumatoid arthritis drugs map to the interactome neighborhood of identified risk genes for rheumatoid arthritis, and they found an overlap between drug target genes and risk genes as well as interactome neighbors of risk genes (21). Another study examined how drug target genes overlap with GWAS hits across a variety of diseases, and it found very little direct overlap (22). However, drug target genes showed threefold enrichment among the closest interactome neighbors, and enrichment was also significant among the second neighbors, suggesting that neighboring genes in the interactome should be included when searching for suitable candidates for drug repurposing (22).
+
+Here, adopting a novel network biology approach (14), we study the schizophrenia disease module and its intersection with current antipsychotic drug target genes integrating information from the human interactome (14) with data from the DGIdb. Our objective was to inform development of new medications (20) by improving understanding of disease etiology and the function of current medications, as well as by identifying genes worth further examination as new drug targets or drug repurposing opportunities. We first identified and characterized a schizophrenia disease module in the interactome, and then we examined the interactome link between antipsychotic drug targets and schizophrenia risk genes through protein interactions. We revealed the specific risk genes and pathways that are involved in this link as well as the risk genes that are not linked to current antipsychotics. This information may be useful for identifying targets of future drugs that may also treat symptoms of schizophrenia other than psychosis.
+
+Method
+Interactome Database
+The protein-protein interaction network used in our main analyses is the human interactome created by Menche et al. (14), consisting of 13,460 proteins interconnected by 141,296 high-confident physical interactions with experimental support. For comparison, we also used the STRING database (23) (see the data supplement that accompanies the online edition of this article).
+
+Network Terminology and Illustrations
+In the network terminology used throughout this article, nodes refer to genes or their corresponding gene products (proteins), and edges refer to connections between two genes through identified protein-protein interactions between their products. The distance (ds) between two nodes in the network is defined as the smallest number of edges, or steps, connecting them (i.e., shortest path length). Network figures were created using Cytoscape (24), with nodes illustrated as a shape (octagons for drug target genes, and circles for disease genes and neighbors of disease genes or drug targets) and edges as lines.
+
+Disease Risk Genes
+Schizophrenia risk genes were derived from the largest multicenter GWAS of schizophrenia to date (10) (36,989 cases and 113,075 controls), performed by the Psychiatric Genomics Consortium. In this GWAS, 108 independent loci were identified with a p value threshold of 5×10−8, which contained 326 potential causal protein coding genes (see Supplementary Table 3 in Ripke et al. [10]). In addition, one of the loci spans a large region on chromosome 6 containing the major histocompatibility complex (MHC). Because this locus contains hundreds of genes, all could not be included in the analyses as the majority might not be functionally related to schizophrenia. A recent article showed that the MHC-schizophrenia association is partly driven by the genes C4A and C4B (25). We therefore included these two genes in the analyses to represent the signal from the MHC region, resulting in a total of 328 risk genes included in the analyses.
+
+Network Localization
+To estimate network localization of the schizophrenia risk genes, we first calculated the shortest distance, ds, between each disease gene to the next closest disease gene and the corresponding frequency distribution, P(ds). To estimate if the disease genes were more localized than that expected by chance, 1,000 random sets of genes with the same number of genes as the disease set were generated to yield the distribution Prand(ds) from which test statistics could be calculated for the observed value of ds (see Menche et al. [14] for details). We also calculated the largest connected component of disease genes in the interactome space, containing S disease genes. S was compared with 1,000 random gene sets with the same number of genes to yield the distribution Prand(S). Following Menche et al., we define the schizophrenia disease module based on both ds and S. A statistically significant ds is driven by risk genes with the shortest distance to another risk gene (i.e., interconnected risk genes [d=1]), and genes in the largest connected component, S, are a subset of interconnected risk genes. Thus, we refer to interconnected risk genes as core genes of the disease module, or as the core disease module. We also performed control analyses with calculation of ds that takes node degree into account for the selection of random gene sets (26). Node degree was also incorporated to an alternative network localization method based on network neighborhood overlap (27) (see the online data supplement).
+
+Antipsychotic Drug Targets
+We included 64 drugs listed as antipsychotics in the Anatomical Therapeutic Chemical Classification System of the World Health Organization’s Collaborating Center for Drug Statistics Methodology. To identify drug-gene interactions in the interactome, we used data from the drug-gene interaction database (DGIdb version 2.22, http://dgidb.genome.wustl.edu, downloaded on Oct. 17, 2016), a freely accessible database for identifying known and potential drug-gene interactions (11, 19). We identified 88 genes targeted by at least one of the 64 antipsychotics. Eighty of these were included in the Menche et al. interactome with at least one interactor.
+
+Gene Set Enrichment Analysis
+We used MAGENTA (Meta-Analysis Gene-set Enrichment of variaNT Associations) (28) to test if antipsychotic drug targets, or their first interactome neighbors, were enriched for associations with schizophrenia compared with a large number of randomly selected genes (see the online data supplement for details). We also examined, as control analyses, potential enrichment of antipsychotic drug target genes among GWAS-identified risk genes for three control conditions: depressive symptoms (29), Alzheimer’s disease (30), and type 2 diabetes (31).
+
+Network Graph of Genetic Overlap Between Antipsychotic Targets and Disease Genes
+We calculated the number of interaction steps (edges) between each specific schizophrenia risk gene and its closest antipsychotic drug target in the interactome, with 0, 1, 2, or >2 steps.
+
+Gene Ontology Enrichment
+ToppGene (32) was used to examine enrichment in gene ontology annotations and pathways for the following subsets of risk gene sets related to the schizophrenia disease module: 1) all risk genes, 2) interconnected risk genes, 3) risk genes belonging to the largest connected component of risk genes (see Supplementary Table 1 in the data supplement). We also examined risk gene sets according to their shortest path length (distance) to antipsychotic drug targets in the interactome (0 or 1, 2, or >2 steps to an antipsychotic drug target; see Supplementary Table 2 in the data supplement). ToppGene uses hypergeometric distribution with Bonferroni correction for determining statistical significance. We included the gene ontology annotation categories molecular function and biological process, as well as pathways, with a Bonferroni-corrected p value threshold of 0.05.
+
+
+
+Genetic predisposition, modifiable lifestyles, and their joint effects on human lifespan: evidence from multiple cohort studies
+
+Abstract
+Objective To investigate the associations across genetic and lifestyle factors with lifespan.
+
+Design A longitudinal cohort study.
+
+Setting UK Biobank.
+
+Participants 353 742 adults of European ancestry, who were recruited from 2006 to 2010 and were followed up until 2021.
+
+Exposures A polygenic risk score for lifespan with long (<lowest quintile), intermediate (quintiles 2 to 4), and short (>highest quintile) risk categories and a weighted healthy lifestyle score, including no current smoking, moderate alcohol consumption, regular physical activity, healthy body shape, adequate sleep duration, and a healthy diet, categorised into favourable, intermediate, and unfavourable lifestyles.
+
+Main outcome measures Lifespan defined as the date of death or the censor date minus the date of birth.
+
+Results Of the included 353 742 participants of European ancestry with a median follow-up of 12.86 years, 24 239 death cases were identified. Participants were grouped into three genetically determined lifespan categories including long (20.1%), intermediate (60.1%), and short (19.8%), and into three lifestyle score categories including favourable (23.1%), intermediate (55.6%), and unfavourable (21.3%). The hazard ratio (HR) of death for individuals with a genetic predisposition to a short lifespan was 1.21 (95% CI 1.16 to 1.26) compared to those with a genetic predisposition to a long lifespan. The HR of death for individuals in the unfavourable lifestyle category was 1.78 (95% CI 1.71 to 1.85), compared with those in the favourable lifestyle category. Participants with a genetic predisposition to a short lifespan and an unfavourable lifestyle had 2.04 times (95% CI 1.87 to 2.22) higher rates of death compared with those with a genetic predisposition to a long lifespan and a favourable lifestyle. No multiplicative interaction was detected between the polygenic risk score of lifespan and the weighted healthy lifestyle score (p=0.10). The optimal combination of healthy lifestyles, including never smoking, regular physical activity, adequate sleep duration, and a healthy diet, was derived to decrease risk of premature death (death before 75 years).
+
+Conclusion Genetic and lifestyle factors were independently associated with lifespan. Adherence to healthy lifestyles could largely attenuate the genetic risk of a shorter lifespan or premature death. The optimal combination of healthy lifestyles could convey better benefits for a longer lifespan, regardless of genetic background.
